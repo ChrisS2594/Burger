@@ -6,7 +6,7 @@ if (process.env.JAWSDB_URL) {
   connection = mysql.createConnection(process.env.JAWSDB_URL)
 } else {
   connection = mysql.createConnection({
-    host: "localhost",
+    host: "izm96dhhnwr2ieg0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     port: 3306,
     user: "	a97xf63z6c1jynt4",
     password: "	j4khw7t0rd4x1yek",
