@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ChrisS2594/Burger#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "^4.0.0",
+    "express-handlebars": "^5.3.1",
     "heroku": "^7.39.3",
     "mysql": "^2.18.1"
   }
